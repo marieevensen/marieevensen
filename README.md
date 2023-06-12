@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+
+Netlify links:
+
+Pushwagner portfolio
+https://pushwagnerportfolio.netlify.app
+
+My exam from frontend-development
+https://kongenpahaugenfestival.netlify.app
+
+A webshop
+https://jwlrywebshop.netlify.app
+
+A weather site for Oslo
+https://weatherapposlo.netlify.app
+
+
 <!--
 **marieevensen/marieevensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
