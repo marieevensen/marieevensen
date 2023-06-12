@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Netlify links:
-
 Pushwagner portfolio
 https://pushwagnerportfolio.netlify.app
 
